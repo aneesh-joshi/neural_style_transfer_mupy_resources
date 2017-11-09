@@ -4,9 +4,13 @@ Resources for Neural Style Transfer talk given at MuPy (Maniapal's Python Confer
 I gave a talk on Neural Style Transfer at MuPy.
 Here are the slides and links as promised.
 
+**Video Presentation:**
+https://www.youtube.com/watch?v=Yr-GB5ryEgk
+
+
 **Links:**
 
-Demonstrations:
+**Demonstrations:**
 
 Awesome Style Transfer Images:
 http://genekogan.com/works/style-transfer/
@@ -17,7 +21,7 @@ https://transcranial.github.io/keras-js/#/mnist-cnn
 CNN filter visualisation video:
 https://www.youtube.com/watch?v=AgkfIQ4IGaM
 
-Blogs & Tutorials:
+**Blogs & Tutorials:**
 
 best IMO (explains from Neural Networks. Code in keras):
 https://harishnarayanan.org/writing/artistic-style-transfer/
